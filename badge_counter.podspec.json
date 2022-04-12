@@ -1,0 +1,22 @@
+
+   
+{
+    "name": "badge_counter",
+    "version": "0.3.2",
+    "summary": "Badgify anything.",
+    "homepage": "https://github.com/santoshkc05/badge_counter",
+    "license": "MIT",
+    "authors": {
+      "Santosh KC": "santoshkc11100@gmail.com"
+    },
+    "social_media_url": "https://www.linkedin.com/in/santoshkc1/",
+    "platforms": {
+      "ios": null
+    },
+    "source": {
+      "git": "https://github.com/santoshkc05/badge_counter.git",
+      "tag": "v0.3.2"
+    },
+    "source_files": "Source/GIBadgeView.{h,m}",
+    "requires_arc": true
+  }
